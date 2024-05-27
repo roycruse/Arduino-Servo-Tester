@@ -1,4 +1,4 @@
-Built using a DIYMORE Pro-Micro (Leonardo Micro clone).
+Built using a DIYMORE Pro-Mini (Leonardo Mini clone).
 Servos can be connected to pins 9, 8, 7, 6 (7 and 6 are reversed).
 Buttons are connected to pins 4, 3, 2 for controling the servo tester.
 
