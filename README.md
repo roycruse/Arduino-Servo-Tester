@@ -6,3 +6,5 @@ The servo tester cycles between middle (1500), min (1100) & max (1900) on the pr
 Buttons 2 and 3 move the trim up and down in 10 increments.
 Pressing buttons 2 and 3 together resets the trim to 0 (1500).
 Holding button 1 for 1 second flashes out the current trim in 10s on the leds.
+
+I assembled mine on a piece of project board with an lm338t voltage regulator set to 5.5v and an XT60 connector so i can use it on any rc battery pack.
